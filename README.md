@@ -1,5 +1,5 @@
 # decoder-ring
-Make an application to encode/decode certain messages
+Make an application to encode or decode certain messages
 
 
 Learning objectives
